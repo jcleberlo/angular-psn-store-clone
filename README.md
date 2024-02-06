@@ -1,27 +1,40 @@
-# PsnStore
+# 🎮 Projeto - Criando uma Página da PSN com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este é um projeto desafio do curso **Formação Angular Developer** oferecido pela **[DIO - Digital Innovation One](https://www.dio.me)**. O desafio era criar uma página da PSN (PlayStation Network) usando o framework **Angular** e seguindo um modelo disponibilizado.
 
-## Development server
+## Sobre o Projeto
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto envolveu a criação de uma página da PSN que exibe uma lista de cards de games, cada um com um título, uma imagem, uma descrição e um preço. O projeto também incluiu um cabeçalho com o logo da PSN e um menu de navegação.
 
-## Code scaffolding
+O projeto foi concluído com sucesso, resultando em uma página da PSN que é funcional e atraente. Este projeto serviu como uma excelente oportunidade para aplicar e aprofundar os conhecimentos adquiridos durante o curso, especialmente no que diz respeito ao framework **Angular**.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Tecnologias Utilizadas
 
-## Build
+- Angular
+- TypeScript
+- HTML
+- CSS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Funcionalidades
 
-## Running unit tests
+O projeto possui as seguintes funcionalidades:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Página da PSN com uma lista de cards de games
+- Cada card possui um título, uma imagem, uma descrição e um preço
+- Cabeçalho com o logo da PSN e um menu de navegação
+- Data binding entre os componentes e os dados dos games
 
-## Running end-to-end tests
+## Como Executar
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone este repositório para sua máquina local.
+2. Instale as dependências do projeto com o comando `npm install`.
+3. Execute o projeto com o comando `ng serve`.
+4. Acesse o projeto no navegador pelo endereço `http://localhost:4200`.
 
-## Further help
+## 🎁 Benefícios do Projeto
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+A realização deste projeto foi uma forma de praticar os conceitos e recursos do framework **Angular** que eu aprendi durante o curso da **[DIO](https://www.dio.me)**. As técnicas utilizadas me ajudaram a desenvolver habilidades práticas e criativas para o desenvolvimento web, pois eu tive que seguir um modelo fornecido. O projeto também foi um desafio, pois eu tive que usar o framework Angular, que é uma ferramenta poderosa e moderna para criar aplicações web. Eu acho que esse projeto foi muito útil para o meu aprendizado e para o meu portfólio.
+
+## 🚀 Sobre a DIO
+
+A **[DIO - Digital Innovation One](https://www.dio.me)** é uma plataforma gratuita de ensino a distância em tecnologia, empreendedorismo, inovação e marketing digital.
